@@ -1,0 +1,2 @@
+traditional_kwh_per_day,smart_kwh_per_day,kwh_saved_per_day,percentage_saved,cost_saved_per_day,cost_saved_per_month,cost_saved_per_year,co2_saved_kg_per_day,co2_saved_kg_per_year,trees_equivalent,num_streetlights,power_per_light
+360.0,264.99999999999994,95.00000000000006,26.388888888888907,665.0000000000005,19950.000000000015,242725.00000000017,77.90000000000005,28433.50000000002,1421.6750000000009,100,150
